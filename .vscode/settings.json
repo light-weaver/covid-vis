@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/rishi/.virtualenvs/covid-vis/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
